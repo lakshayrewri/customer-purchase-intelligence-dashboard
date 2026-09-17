@@ -10,6 +10,15 @@ An end-to-end Data Analytics project built using **Python, PostgreSQL, and Power
 - Power BI
 - DAX
 
+## 📂 Project Structure
+
+- `customer_behavior_dataset.csv` – Dataset
+- `customer_sql_queries.sql` – SQL queries
+- `customer_shopping_behavior.ipynb` – Python analysis notebook
+- `customer_purchase_intelligence.pbix` – Power BI dashboard
+- `dashboard_screenshot.png` – Dashboard preview
+- `LICENSE` – MIT License
+  
 ## Project Workflow
 
 1. Cleaned and transformed customer data using Python.
