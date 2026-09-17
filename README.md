@@ -2,6 +2,10 @@
 
 An end-to-end Data Analytics project built using **Python, PostgreSQL, and Power BI** to analyze customer purchasing behavior and generate actionable business insights.
 
+## 📊 Project Overview
+
+This project analyzes customer purchasing behavior using Python, PostgreSQL, and Power BI. It transforms raw customer data into actionable insights through data cleaning, SQL analysis, feature engineering, and interactive dashboard development.
+
 ## Tools Used
 
 - Python (Pandas)
@@ -37,7 +41,7 @@ An end-to-end Data Analytics project built using **Python, PostgreSQL, and Power
 ## Dashboard Insights
 
 - Revenue by Category
-- Orders by Season
+- Purchases by Season
 - Revenue by Age Group
 - Subscription Status
 - Payment Method Distribution
@@ -52,12 +56,34 @@ An end-to-end Data Analytics project built using **Python, PostgreSQL, and Power
 - Window Functions
 - Ranking
 - Aggregations
+- 
+## 💼 Skills Demonstrated
 
-## Project Preview
+- Python
+- Pandas
+- SQL
+- PostgreSQL
+- Power BI
+- Data Cleaning
+- Feature Engineering
+- Customer Segmentation
+- Data Visualization
+- Business Intelligence
+  
+## 📷 Dashboard Preview
 
-(<img width="1436" height="797" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/a1d82a4b-44fd-40d6-9f29-24b8b879a720" />
-)
+<img width="1436" height="797" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/a1d82a4b-44fd-40d6-9f29-24b8b879a720" />
 
-## Author
+## 🚀 Conclusion
+
+This project demonstrates how customer data can be transformed into actionable business insights using Python, SQL, PostgreSQL, and Power BI to support data-driven decision-making.
+
+---
+
+**Last Updated:** September 2026
+
+## 👤 Author
+
+**Lakshay Rewri**
 
 Lakshay
